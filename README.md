@@ -1,5 +1,6 @@
 
-![Comp 1_6](https://github.com/user-attachments/assets/0243a61f-2d08-4b05-bd09-6374d9cfcf4b)
+
+![output](https://github.com/user-attachments/assets/f8421867-6d8d-429f-9ebb-a4d34ffc1bcf)
 
 
 
