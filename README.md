@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Im+Vaagishwar+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+![Uploading Comp 1_5.gif…]()
 
 <!--
 **CookieCodeio/CookieCodeio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Im+Vaagishwar+%F0%9F%91%8B)](https://git.io/typing-svg)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
