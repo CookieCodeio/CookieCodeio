@@ -1,5 +1,6 @@
 
-![Uploading Comp 1_5.gif…]()
+![Comp 1_5](https://github.com/user-attachments/assets/506bb3ca-f21e-4ef7-ab95-fd5280e4c21d)
+
 
 <!--
 **CookieCodeio/CookieCodeio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
