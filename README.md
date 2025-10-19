@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/7a0cba4f-32f9-4f15-98bb-922527ed7980" target="_blank">
-    🎬 Download output.webm
-  </a>
-</p>
+![output](https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47)
