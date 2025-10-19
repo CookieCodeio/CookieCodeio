@@ -1,5 +1,6 @@
 
-![Comp 1_5](https://github.com/user-attachments/assets/506bb3ca-f21e-4ef7-ab95-fd5280e4c21d)
+![Comp 1_6](https://github.com/user-attachments/assets/0243a61f-2d08-4b05-bd09-6374d9cfcf4b)
+
 
 
 <!--
